@@ -43,3 +43,4 @@ Vellore
 Chennai
 Delhi
 Navi mumbai
+we no more need a txt file but thesea are the cities(and 15 others) in the numpy array 
