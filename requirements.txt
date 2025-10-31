@@ -1,1 +1,4 @@
 requests
+tkinter
+random
+Pillow
