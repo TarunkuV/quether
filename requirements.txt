@@ -2,3 +2,6 @@ requests
 tkinter
 random
 Pillow
+numpy
+panda
+os
